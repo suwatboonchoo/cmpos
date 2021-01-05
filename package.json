@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://localhost/demo",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "chart.js": "^2.8.0",
     "lodash": "^4.17.11",
     "onesignal-node": "^2.1.0",
